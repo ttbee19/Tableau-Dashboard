@@ -22,7 +22,7 @@ This Tableau dashboard provides an interactive visualization of British Airways 
 
 ## Resources
 Please click the below link to enter interactive dashboard:
-- [Tableau Dashboard Link ](https://haproxy-traffic-splitter/views/BritishAirwaysReviewDashboard_17374095752770/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Tableau Dashboard Link] https://haproxy-traffic-splitter/views/BritishAirwaysReviewDashboard_17374095752770/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
 ---
